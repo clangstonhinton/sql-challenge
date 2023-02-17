@@ -9,6 +9,10 @@ Research and data analysis was performed on a fictional company's employees from
 ## Approach
 
 (1) A data model was developed to depict the Entity Relationship Diagram of the tables in the database leveraging QuickDBD.
+
+![QuickDBD-export](https://user-images.githubusercontent.com/44728723/219783880-da0d5c91-ade6-427a-b7cc-5e2a50eba223.png)
+
+
 (2) Table schemas were created for each table specifying the data types, primary keys, foreign keys and other contraints.
 (3) Values for the tables were imported from the sourced CSV files (listed below).
 (4) The data were analyzed using INNER JOINS, WHERE statements, ORDER BYs, COUNTs and other filters and constraints.
