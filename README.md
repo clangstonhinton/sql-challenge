@@ -8,23 +8,23 @@ Research and data analysis was performed on a fictional company's employees from
 
 ## Approach
 
-    - A data model was developed to depict the Entity Relationship Diagram of the tables in the database leveraging QuickDBD.
+ - A data model was developed to depict the Entity Relationship Diagram of the tables in the database leveraging QuickDBD.
 
 ![QuickDBD-export](https://user-images.githubusercontent.com/44728723/219783880-da0d5c91-ade6-427a-b7cc-5e2a50eba223.png)
 
 
-    - Table schemas were created for each table specifying the data types, primary keys, foreign keys and other contraints.
-    - Values for the tables were imported from the sourced CSV files (listed below).
-    - The data were analyzed using INNER JOINS, WHERE statements, ORDER BYs, COUNTs and other filters and constraints.
-    - Views were created to house the resulting outputs from step # 4 above.
+ - Table schemas were created for each table specifying the data types, primary keys, foreign keys and other contraints.
+ - Values for the tables were imported from the sourced CSV files (listed below).
+ - WeatherPyThe data were analyzed using INNER JOINS, WHERE statements, ORDER BYs, COUNTs and other filters and constraints.
+ - WeatherPyViews were created to house the resulting outputs from step # 4 above.
 
 
 ## Sources used for this analysis
 
 Six (6) csv files including:
-    - departments.csv
-    - dept_emp.csv
-    - dept_manager.csv
-    - employees.csv
-    - salaries.csv
-    - titles.csv
+ - departments.csv
+ - dept_emp.csv
+ - dept_manager.csv
+ - employees.csv
+ - salaries.csv
+ - titles.csv
