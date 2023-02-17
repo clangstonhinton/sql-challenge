@@ -3,7 +3,7 @@ Leverage SQL to perform data modeling, data engineering, and data analysis
 
 ## Background
 
-Research and data analysis was performed on a fictional company's employees from the 1980's and 19990's.  SQL tables were created to form a SQL database and values for each table were imported from source CSV files.  Data modeling, data engineering and data analysis were performed with the dataset. The resulting database contained 6 tables and data for over 300,000 employees including: first name, last name, age, sex, birth date, hire date, employee number, title, salary, department number, department name and manager.
+Research and data analysis was performed on a fictional company's employees from the 1980's and 1990's.  SQL tables were created to form a SQL database and values for each table were imported from source CSV files.  Data modeling, data engineering and data analysis were performed with the dataset. The resulting database contained 6 tables and data for over 300,000 employees including: first name, last name, age, sex, birth date, hire date, employee number, title, salary, department number, department name and manager.
 
 
 ## Approach
